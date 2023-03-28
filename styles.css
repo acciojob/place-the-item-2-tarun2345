@@ -3,5 +3,5 @@
 .holder{
 	display:flex;
 	flex-flow:row wrap;
-	gap:180px;
+	justify-content:center;
 }
